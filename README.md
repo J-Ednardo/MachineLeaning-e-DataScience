@@ -1,2 +1,2 @@
 # MachineLeaning-e-DataScience
- Arquivos de um Curso de Machine Learning e DataScience
+ Arquivos do Curso de Machine Learning e DataScience
